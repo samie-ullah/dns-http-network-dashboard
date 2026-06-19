@@ -42,6 +42,7 @@ HTML / CSS (custom web dashboard)
 
 
 🧪 Testing & Validation
+<img width="650" height="307" alt="image" src="https://github.com/user-attachments/assets/929b8cdf-eeef-4369-baca-77d156bbea46" />
 
 DNS resolution verified using ping mywebsite.com
 HTTP access confirmed via web browser on multiple clients
